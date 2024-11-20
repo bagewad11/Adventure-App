@@ -7,10 +7,12 @@ import TopDestination from "./TopDestination";
 import Hotels from "./Hotels";
 import SpotsMumbai from "./Spots";
 import Footer from "./Footer";
+import Navigation from "./Navigation";
 
 const Home = () => {
   return (
     <div>
+      <Navigation/>
       <Herobanner />
       <FamouseCitys />
       <SpotsMumbai />

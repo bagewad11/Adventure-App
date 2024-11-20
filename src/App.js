@@ -22,7 +22,7 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <Navigation />
+      <Home/>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/signIn" element={<SignIn />} />
