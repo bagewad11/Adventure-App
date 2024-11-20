@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Adventure-App/static/css/main.98f01d4b.css",
-    "main.js": "/Adventure-App/static/js/main.167497ec.js",
+    "main.js": "/Adventure-App/static/js/main.6d883dae.js",
     "static/js/453.8450489e.chunk.js": "/Adventure-App/static/js/453.8450489e.chunk.js",
     "static/media/topdestination.jpg": "/Adventure-App/static/media/topdestination.515ac6efb9b5b4e7564f.jpg",
     "static/media/skiing.jpg": "/Adventure-App/static/media/skiing.746410be41a6fd42e496.jpg",
@@ -40,11 +40,11 @@
     "static/media/diving.jpg": "/Adventure-App/static/media/diving.1438df32ccaa6370fc43.jpg",
     "index.html": "/Adventure-App/index.html",
     "main.98f01d4b.css.map": "/Adventure-App/static/css/main.98f01d4b.css.map",
-    "main.167497ec.js.map": "/Adventure-App/static/js/main.167497ec.js.map",
+    "main.6d883dae.js.map": "/Adventure-App/static/js/main.6d883dae.js.map",
     "453.8450489e.chunk.js.map": "/Adventure-App/static/js/453.8450489e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98f01d4b.css",
-    "static/js/main.167497ec.js"
+    "static/js/main.6d883dae.js"
   ]
 }
